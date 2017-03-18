@@ -4,7 +4,7 @@
 </head>
 <body>
   <?php echo '<h1> Hola App Juan Moreno</h1> ' ?>
-  <p> Hola!</p>
+  <p> Bienvenido a esta prueba, diviertete leyendo.</p>
 
 </body>
 
